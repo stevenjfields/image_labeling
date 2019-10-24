@@ -2,6 +2,8 @@
 
 We need more data to train the model, so here's some instructions on how to label it. Inside the img folder I'll place the photos in groups of 25 to make it easy to manage.
 
+> Link to google sheet: [Click Me](https://docs.google.com/spreadsheets/d/1VnFfHQvYxsi7Bajmz0lpaj11nPvc5cUoANSkzjWQBe8/edit?usp=sharing)
+
 ## Setting Up Yolo_mark
 
 1. Go to [OpenCV](https://opencv.org/releases/) and download the 3.4.7 version for Windows
