@@ -1,6 +1,6 @@
 # image_labeling
 
-We need more data to train the model, so here's some instructions on how to label it. Inside the img folder I'll place the photos, either in groups of 50 or in 4 seperate folders evenly distributed.
+We need more data to train the model, so here's some instructions on how to label it. Inside the img folder I'll place the photos in groups of 25 to make it easy to manage.
 
 ## Setting Up Yolo_mark
 
@@ -23,6 +23,8 @@ We need more data to train the model, so here's some instructions on how to labe
 4. A new window should appear, click "New" on the right hand side.
 5. Either type in directory or hit browse and find it.
 	- Should be similar to C:\OpenCV\build\x64
+
+> If it still doesn't run change Path variable above to C:\OpenCV\build\x64\vc14\bin\
 
 ## Using Yolo_mark
 
