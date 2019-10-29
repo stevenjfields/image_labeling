@@ -19,7 +19,7 @@ We need more data to train the model, so here's some instructions on how to labe
 
 ## Adding OpenCV to Path
 
-1. Search for "Edit environment variables"/
+1. Search for "Edit environment variables"
 2. Click the "Environment Variables ..." button.
 3. Under "System Variables" find the row where the variable is named "Path". Select it and click edit.
 4. A new window should appear, click "New" on the right hand side.
